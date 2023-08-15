@@ -1,8 +1,8 @@
-# React + Vite
+#AI Article Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Article Summarizer Web Application using OpenAI's GPT model.
+•Uses the Article Extractor and Summarizer API, which extracts news/article body from a URL and uses GPT to summarize (and optionally translate) the article content.
+•Implemented as a ReactJS Project using Vite.js
+•Responsive UI with a touch of glass morphism using Tailwind CSS
+•Added features like 'Save history' and 'Copy to Clipboard'
+•Libraries and frameworks used : React and Tailwind CSS, respectively. Dependencies used : Redux toolkit
