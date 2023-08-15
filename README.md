@@ -11,3 +11,6 @@ Article Summarizer Web Application using OpenAI's GPT model.
 •Added features like 'Save history' and 'Copy to Clipboard'
 
 •Libraries and frameworks used : React and Tailwind CSS, respectively. Dependencies used : Redux toolkit
+
+Final App depolyed at :
+https://ai-article-sum.netlify.app/
